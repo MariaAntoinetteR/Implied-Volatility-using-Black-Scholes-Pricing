@@ -1,0 +1,1 @@
+Implementation of the Black-Scholes option pricing model with numerical methods such as Newton-Raphson for implied volatility estimation. Includes market data integration, synthetic data generation, and visualization of option pricing behavior.
